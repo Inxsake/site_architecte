@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    color: #213C54;
+    font-size: 40px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    color:  #1565c0;
+    text-decoration: none; 
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #005f99;
+}
+li{
+    text-align: center;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#devise {
+    text-align: center;
+    font-style: italic;
+}
+
+.description {
+    background-color: #EAC194;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px;
+    border: 2px solid #8396a8;
+}
+
+.lien {
+    margin-left: 37%;
+}
+
+.description img {
+    text-align: center;
+    border: 2px solid #8396a8;
+    border-radius: 2%;
+    margin-left: 40px;
+}
+
+.logo {
+    display: inline-block;
+    margin-left: 46.5%;
+}
+
+.slide {
+    display: none;
+}
